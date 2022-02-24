@@ -1,5 +1,15 @@
 # malon_weather
 
+<p>
+  
+![Screenshot_20220224-170831](https://user-images.githubusercontent.com/75075446/155582099-499490b9-7a5b-4192-a87c-f1d46de8ad6e.png)
+![Screenshot_20220224-170839](https://user-images.githubusercontent.com/75075446/155582115-66f6e1a8-8748-4f6f-bdfe-3a00411e7449.png)
+![Screenshot_20220224-170853](https://user-images.githubusercontent.com/75075446/155582218-71dfec38-bb66-4687-ad46-d60406f291eb.png)
+![Screenshot_20220224-170901](https://user-images.githubusercontent.com/75075446/155582240-b9bb21bd-b155-4fdc-b9fc-4c29e1eb48d2.png)
+
+
+</p>
+
 Malon Weather is a two paged weather app that displays the city name, country name, current weather conditions and other details of a list of cities on the first page and on user interactions navigates to the second page for more weather details using openweathermap api. While building Malon Weather I couldnt find a way to get a list of cities and their current weather conditions from openweathermap, the other option was a downloaded json file that was out of date, so I generated a list from individual city weather data.
 
 ## Design ❄👌
