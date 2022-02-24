@@ -1,7 +1,7 @@
 # malon_weather
 
 <p>
-  [url=https://postimages.org/][img]https://i.postimg.cc/XrjFV7rZ/Screenshot-20220224-170831.png[/img][/url]
+[![Screenshot-20220224-170831.png](https://i.postimg.cc/136Kr8PK/Screenshot-20220224-170831.png)](https://postimg.cc/XrjFV7rZ)
 
 [url=https://postimages.org/][img]https://i.postimg.cc/mchHHXNB/Screenshot-20220224-170839.png[/img][/url]
 
