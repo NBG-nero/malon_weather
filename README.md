@@ -1,7 +1,7 @@
 # malon_weather
 
 <p>
-[![Screenshot-20220224-170831.png](https://i.postimg.cc/136Kr8PK/Screenshot-20220224-170831.png)](https://postimg.cc/XrjFV7rZ)
+<img scr = "https://i.postimg.cc/136Kr8PK/Screenshot-20220224-170831.png" />
 
 [url=https://postimages.org/][img]https://i.postimg.cc/mchHHXNB/Screenshot-20220224-170839.png[/img][/url]
 
